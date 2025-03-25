@@ -22,6 +22,8 @@ const EventDetails = () => {
     // console.log(`Fetching data from https://j3md0l0t-9000.inc1.devtunnels.ms/events/${eventTitle}`)
     // console.log(data)
 
+    console.log(userInput)
+
     const EventInfo = () => 
         
            {
